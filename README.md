@@ -27,7 +27,7 @@ This project demonstrates various DOM manipulations using JavaScript. It allows 
   
   ## How to Use
 
-- Clone the repository: git clone https://github.com/your-username/repository.git.
+- Clone the repository: git clone [https://github.com/your-username/repository.git.](https://github.com/DanishKhan25/BlockManipulation.git)
 - Open the project's index.html file in a web browser.
 - Use the provided controls to manipulate the block according to your desired position, size, shape, and color.
 - Observe the block's visual changes in real-time as you interact with the controls.
